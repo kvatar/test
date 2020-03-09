@@ -4,5 +4,5 @@ package main
 )
 
 func main() {
-	fmt.Print("hello world!")
+	fmaat.Print("hello world!")
 }
